@@ -1,0 +1,3 @@
+PS D:\Practice Tutorials> & "C:/Python 3.10.6/python.exe" "d:/Practice Tutorials/Python practice/SparksFoundation/LinearRegression.py"     
+[92.90985477]
+PS D:\Practice Tutorials>
